@@ -1,4 +1,4 @@
---[[ IdleUp v1.0
+--[[ IdleUp v1.1
 
 https://github.com/udyux/opentx-widget-idleup
 Copyright 2020 | Nicolas Udy | MIT License
