@@ -30,5 +30,5 @@ Simply select the widget, configure the switch you use for enabling idle-up and 
 
 ## Screenshots
 
-<p><img src="tx16s-idleup-enabled.png" /><br></p>
-<p><img src="tx16s-idleup-disabled.png" /><br></p>
+<p><img src="/screenshots/tx16s-idleup-enabled.png" /><br></p>
+<p><img src="/screenshots/tx16s-idleup-disabled.png" /><br></p>
