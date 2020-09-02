@@ -27,3 +27,8 @@ Download the `.zip` file from the [latest release](https://github.com/udyux/open
 For the time being, this widget is intended to be used with the 8-cell layout (2 columns, 4 rows).
 
 Simply select the widget, configure the switch you use for enabling idle-up and indicate it's "active" range.
+
+## Screenshots
+
+<p><img src="tx16s-idleup-enabled.png" /><br></p>
+<p><img src="tx16s-idleup-disabled.png" /><br></p>
